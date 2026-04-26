@@ -4,7 +4,7 @@
 	"values": [
 		{
 			"key": "BaseUrl",
-			"value": "",
+			"value": "https://petstore.swagger.io/v2",
 			"type": "default",
 			"enabled": true
 		}
