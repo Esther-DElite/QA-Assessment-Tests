@@ -40,9 +40,6 @@ How to Run the SauceDemo Automation Tests
 2. Open the terminal.
 3. Install dependencies:
 
-bash
-npm install
-
 NOTES
 - SauceDemo automation covered key user flows such as login, adding/removing products from cart, filtering products, viewing cart, and checkout.
 - The Login User endpoint in postman returned a successful response message 'Logged in user session" alongside an id when the username and password fields were empty. An error response should have been returned instead
