@@ -1,4 +1,4 @@
- QA Assessment Test Project
+QA Assessment Test Project
 
 Project Overview
 This repository contains the QA assessment work completed for both API testing and web application automation.
@@ -40,7 +40,7 @@ How to Run the SauceDemo Automation Tests
 2. Open the terminal.
 3. Install dependencies:
 
-```bash
+bash
 npm install
 
 NOTES
@@ -48,3 +48,4 @@ NOTES
 - The Login User endpoint in postman returned a successful response message 'Logged in user session" alongside an id when the username and password fields were empty. An error response should have been returned instead
 - For the get user endpoint, the get user with valid username testcase failed because no valid username was provided thus the right response body was not returned
 Some API responses did not behave as expected. Test scripts were written in the 'scripts' session for validation
+
